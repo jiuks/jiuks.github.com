@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Endeca | Jon Mead]]></title>
-  <link href="http://www.jonmead.me/blog/categories/endeca/atom.xml" rel="self"/>
-  <link href="http://www.jonmead.me/"/>
-  <updated>2013-08-18T23:48:34+01:00</updated>
-  <id>http://www.jonmead.me/</id>
+  <link href="http://jonmead.me/blog/categories/endeca/atom.xml" rel="self"/>
+  <link href="http://jonmead.me/"/>
+  <updated>2013-08-18T23:49:51+01:00</updated>
+  <id>http://jonmead.me/</id>
   <author>
     <name><![CDATA[Jon Mead]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Getting OEID up and running]]></title>
-    <link href="http://www.jonmead.me/2013/01/19/getting-oeid-up-and-running/"/>
+    <link href="http://jonmead.me/2013/01/19/getting-oeid-up-and-running/"/>
     <updated>2013-01-19T16:45:00+00:00</updated>
-    <id>http://www.jonmead.me/2013/01/19/getting-oeid-up-and-running</id>
+    <id>http://jonmead.me/2013/01/19/getting-oeid-up-and-running</id>
     <content type="html"><![CDATA[<h3>Create the project</h3>
 
 <p>Create new Integrator project</p>

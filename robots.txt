@@ -1,4 +1,4 @@
 User-agent: *
 Disallow: 
 
-Sitemap: http://www.jonmead.me/sitemap.xml 
+Sitemap: http://jonmead.me/sitemap.xml 
