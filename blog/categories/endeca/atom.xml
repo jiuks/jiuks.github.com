@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Endeca | Jon Mead]]></title>
+  <link href="http://jiuks.github.com/blog/categories/endeca/atom.xml" rel="self"/>
+  <link href="http://jiuks.github.com/"/>
+  <updated>2013-08-18T15:50:04+01:00</updated>
+  <id>http://jiuks.github.com/</id>
+  <author>
+    <name><![CDATA[Jon Mead]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Getting OEID up and running]]></title>
+    <link href="http://jiuks.github.com/2013/01/19/getting-oeid-up-and-running/"/>
+    <updated>2013-01-19T16:45:00+00:00</updated>
+    <id>http://jiuks.github.com/2013/01/19/getting-oeid-up-and-running</id>
+    <content type="html"><![CDATA[<h3>Create the project</h3>
+
+<p>Create new Integrator project</p>
+
+<p><img src="https://dl.dropbox.com/u/299238/2013-01-18_23-01-04.png" alt="" /></p>
+
+<p>Create OEID data store</p>
+
+<p>Copy the <code>workspace.prm</code> file from the quickstart application. Edit the <code>workspace.prm</code> file. Change the parameter <code>DATA_STORE_NAME</code>.</p>
+
+<!-- more -->
+
+
+<h3>Create the data store</h3>
+
+<p>Create a new graph called InitDataStore. Copy one component that contains the web service call to create a data store. Just copy the <strong>Create Data Store</strong> component.</p>
+
+<p><img src="https://dl.dropbox.com/u/299238/2013-01-18_23-11-43.png" alt="" /></p>
+
+<h3>Run the graph</h3>
+
+<p>Use the run button. Test by pinging the URL <a href="http://localhost:7770/admin/data-store-name?op=ping">http://localhost:7770/admin/data-store-name?op=ping</a> (Note: 7770 is the default port the Endeca Server runs on).</p>
+]]></content>
+  </entry>
+  
+</feed>

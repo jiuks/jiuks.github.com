@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Octopress | Jon Mead]]></title>
+  <link href="http://jiuks.github.com/blog/categories/octopress/atom.xml" rel="self"/>
+  <link href="http://jiuks.github.com/"/>
+  <updated>2013-08-18T15:50:04+01:00</updated>
+  <id>http://jiuks.github.com/</id>
+  <author>
+    <name><![CDATA[Jon Mead]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Changing the Domain of this Site]]></title>
+    <link href="http://jiuks.github.com/2013/01/27/changing-the-domain-of-this-site/"/>
+    <updated>2013-01-27T10:54:00+00:00</updated>
+    <id>http://jiuks.github.com/2013/01/27/changing-the-domain-of-this-site</id>
+    <content type="html"><![CDATA[<h2>ResourceMine.net</h2>
+
+<p>I originally set this site up as an experiment, however I have been impressed with <a href="http://octopress.org/" title="Octopress">Octopress</a> and want to use the site as a place to dump my thoughts. resourcemine.net was a domain that I had registered, so I configured the DNS for this domain.</p>
+
+<p>Over the weekend I registered <a href="http://www.jonmead.me" title="Jon Mead">jonmead.me</a>, <a href="http://www.jonmead.com" title="Jon Mead">jonmead.com</a> and <a href="http://www.jonmead.co.uk" title="Jon Mead">jonmead.co.uk</a> and I am going to use jonmead.me for this site.</p>
+
+<p>After setting up the DNS for the jonmead.* URLs, these are the steps I took.</p>
+
+<!-- more -->
+
+
+<h2>Server</h2>
+
+<p>The server is running in my basement on <a href="http://www.proxmox.com/" title="Proxmox - Start page">ProxMox</a>, its a Ubuntu 12.04  container. By default this had Apache2 installed. I covered <a href="/2013/01/19/basic-apache2-configuration-on-ubuntu/">Basic Apache2 Configuration on Ubuntu</a> earlier in the month.</p>
+
+<p>There were no changes required to the server, nor my internal network or router.</p>
+
+<h2>Client Setup</h2>
+
+<p>I decided to use my MBP 15" retina as the clint I already had <a href="http://git-scm.com/" title="Git">Git</a> and <a href="http://www.ruby-lang.org/en/news/2012/11/09/ruby-1-9-3-p327-is-released/" title="Ruby 1.9.3-p327 is released">Ruby 1.9.3</a> installed, so that was easy, and then followed the <a href="http://octopress.org/docs/setup/">Octopress Setup</a> documentation and chose to <a href="http://octopress.org/docs/deploying/rsync/" title="Deploying with rsync - Octopress">rsync</a> to the above server.</p>
+
+<p>The only configuration changes I made were in <code>_config.yaml</code>, as below:</p>
+
+<pre><code># ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://jonmead.me
+title: Jon Mead
+subtitle: Men do not quit playing because they grow old; they grow old because they quit playing
+author: Jon Mead
+simple_search: http://google.com/search
+description:
+</code></pre>
+
+<h2>Site Search and Google</h2>
+
+<p>As <a href="http://octopress.org/" title="Octopress">Octopress</a> is a static blogging framework, its search is done by Google's <code>site:jonmead.me</code> directive.</p>
+
+<p>I originally set this site up to capture my thoughts, so hadn't considered Search Engine Opimization (SEO) would be something that I needed to think of, however I wanted to make sure Google was aware of the site so the search would work.</p>
+
+<p>I had configured  <a href="http://www.google.com/analytics/" title="Google Analytics Official Website - Web Analytics &amp; Reporting ...">Google Analytics</a> for resourcemine.net, so I needed to repeat the process for jonmead.me.</p>
+
+<h3>Google Analytics</h3>
+
+<p>I logged in to http://analytics.google.com, went to the Administer tab and added a new <strong>Web Property</strong>.</p>
+
+<p><img src="https://dl.dropbox.com/u/299238/2013-01-27_10-30-46.png" alt="" /></p>
+
+<p>This gave me a <strong>Tracking ID</strong>, which I could then add to <code>my _config.yml</code>. The <strong>Tracking ID</strong> is now added to each page.</p>
+
+<p>The way to access the site is now <a href="http://www.jonmead.me" title="Jon Mead">http://www.jonmead.me</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[What I did next with Octopress]]></title>
+    <link href="http://jiuks.github.com/2013/01/19/what-i-did-next-with-octopress/"/>
+    <updated>2013-01-19T22:30:00+00:00</updated>
+    <id>http://jiuks.github.com/2013/01/19/what-i-did-next-with-octopress</id>
+    <content type="html"><![CDATA[<h2>Themes</h2>
+
+<p>I saw a website called <a href="http://www.ewal.net">Ewal.net</a> that I liked the look and feel of and contacted the guy behind it, he said the theme was based on <a href="https://github.com/tommy351/Octopress-Theme-Slash">Slash</a>.</p>
+
+<p>I started by installing Slash.</p>
+
+<pre><code>cd octopress
+git clone git://github.com/tommy351/Octopress-Theme-Slash.git .themes/slash
+rake install['slash']
+rake generate
+rake deploy
+</code></pre>
+
+<!-- more -->
+
+
+<p></p>
+
+<p>Didn't really like it, and when I looked at <a href="https://github.com/ervwalter/octopress-ewal">https://github.com/ervwalter/octopress-ewal</a> I couldn't see <strong>slash</strong> in the <code>.themes</code> directory.</p>
+
+<p>Reverted changes.</p>
+
+<pre><code>rake install['classic']
+rake generate
+rake deploy
+</code></pre>
+
+<p>Maybe adding another theme should be left for another day. However I'm impressed with the ease that the theme could be changed.</p>
+
+<h2>Customisations</h2>
+
+<p>My source of inspiration was again <a href="http://www.ewal.net">Ewal.net</a> and an article about <a href="http://www.ewal.net/2012/09/08/octopress-customizations/">customisations</a>. I decided to try a few.</p>
+
+<p>I removed <strong>blog</strong> from the URL. I like the idea of <a href="!g">FancyBox</a>, but I am not sure of the best way to integrate it to my Markdown workflow.</p>
+
+<p>The next change I made was to add the line</p>
+
+<pre><code>system "mate \"#{filename}\""
+</code></pre>
+
+<p>to the <strong>new_post</strong> section of the <code>Rakefile</code>. This opened up the new post in TextMate.</p>
+
+<h2>Comments</h2>
+
+<p><a href="http://octopress.org/" title="Octopress">Octopress</a> supports <a href="http://disqus.com/" title="DISQUS - Elevating the discussion">Disqus</a> comments. I wanted to enable these on the site. I went to <a href="http://disqus.com/" title="DISQUS - Elevating the discussion">Disqus</a> and signed up, registered the site <a href="http://www.resourcemine.net">resourcemine</a>, and edited the <code>_config.yml</code> file to add my <code>disqus_short_name</code> and <code>disqus_show_comment_count</code>. Note the <code>disqus_short_name</code> is the shortname from <a href="http://disqus.com/" title="DISQUS - Elevating the discussion">Disqus</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Basic Apache2 configuration on Ubuntu]]></title>
+    <link href="http://jiuks.github.com/2013/01/19/basic-apache2-configuration-on-ubuntu/"/>
+    <updated>2013-01-19T15:53:00+00:00</updated>
+    <id>http://jiuks.github.com/2013/01/19/basic-apache2-configuration-on-ubuntu</id>
+    <content type="html"><![CDATA[<h2>Useful links</h2>
+
+<ul>
+<li><a href="https://help.ubuntu.com/10.04/serverguide/httpd.html">https://help.ubuntu.com/10.04/serverguide/httpd.html</a></li>
+<li><a href="https://help.ubuntu.com/community/ApacheMySQLPHP">https://help.ubuntu.com/community/ApacheMySQLPHP</a></li>
+</ul>
+
+
+<h2>Where is index.html</h2>
+
+<p>The default webroot directory is <code>/var/www/index.html</code>.</p>
+
+<h2>Setting up Octopress as a site</h2>
+
+<p>From: <a href="https://help.ubuntu.com/community/ApacheMySQLPHP">https://help.ubuntu.com/community/ApacheMySQLPHP</a></p>
+
+<p>Make a directory.</p>
+
+<pre><code>mkdir /home/jonmead/octopress/
+</code></pre>
+
+<p>Copy over the default config files.</p>
+
+<pre><code>sudo cp /etc/apache2/sites-available/default /etc/apache2/sites-available/octopress
+sudo vim /etc/apache2/sites-available/octopress
+</code></pre>
+
+<!-- more -->
+
+
+<p>Change the DocumentRoot to point to the new location. For example, <code>/home/jonmead/octopress/</code>.</p>
+
+<p>Change the Directory directive, replace <code>&lt;Directory /var/www/&gt;</code> to <code>&lt;Directory /home/jonmead/octopress/&gt;</code>.</p>
+
+<p>You can also set separate logs for each site. To do this, change the ErrorLog and CustomLog directives. This is optional, but handy if you have many sites</p>
+
+<p>Now, we must deactivate the old site, and activate our new one. Ubuntu provides two small utilities that take care of this: a2ensite (apache2enable site) and a2dissite (apache2disable site).</p>
+
+<pre><code>sudo a2dissite default &amp;&amp; sudo a2ensite octopress
+</code></pre>
+
+<p>Finally, we restart Apache2:</p>
+
+<pre><code>sudo /etc/init.d/apache2 restart
+</code></pre>
+
+<p>If you have not created <code>/home/jonmead/octopress/</code>, you will receive an warning message. To test the new site, create a file in <code>/home/user/public_html/</code>:</p>
+
+<pre><code>echo '&lt;b&gt;Hello! It is working!&lt;/b&gt;' &gt; /home/jonmead/octopress/index.html
+</code></pre>
+
+<p>Finally, browse to <a href="http://localhost/">http://localhost/</a></p>
+]]></content>
+  </entry>
+  
+</feed>

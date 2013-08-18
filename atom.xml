@@ -1,0 +1,441 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Jon Mead]]></title>
+  <link href="http://jiuks.github.com/atom.xml" rel="self"/>
+  <link href="http://jiuks.github.com/"/>
+  <updated>2013-08-18T15:50:04+01:00</updated>
+  <id>http://jiuks.github.com/</id>
+  <author>
+    <name><![CDATA[Jon Mead]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[A Realisation About How I Organise My Time]]></title>
+    <link href="http://jiuks.github.com/2013/08/11/a-realisation-about-how-i-organise-my-time/"/>
+    <updated>2013-08-11T19:07:00+01:00</updated>
+    <id>http://jiuks.github.com/2013/08/11/a-realisation-about-how-i-organise-my-time</id>
+    <content type="html"><![CDATA[<p>I have read a lot and tried to do a lot regarding productivity over the last few years. A couple of days ago I read <a href="http://mosx.tumblr.com/post/56776970361/find-your-life-priorities-with-omnifocus-omnigraffle">this article</a> which was linked to from the <a href="http://simplicitybliss.com/">Simplicity Bliss website</a>.</p>
+
+<p>One thing the article spoke about was prioritising your tasks and how to do that within a Getting Things Done framework or tool. I use a system in <a href="http://www.omnigroup.com/omnifocus">OmniFocus</a> where I create some high level folders to structure my projects, I have one called Immediate and one called Focus. I use these to try to provide focus to the multitude of tasks and projects I am involved in.</p>
+
+<p>Today I realised that there was a potential flaw in my plan. I never scheduled any time to do any of these. Like most other people in management positions my time got taken up by meetings, client visits, processing emails, travel and various other miscellaneous activities, however when I start to plan my week I would never block out any time to devote to them.</p>
+
+<p>No great surprise I find myself processing the same projects in OmniFocus again and again. This week I am going to block out time and try and progress these, on my own terms, not caught up in meetings, not in the evenings, not at 6am in the morning, or on a flight or train.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Working with Markdown]]></title>
+    <link href="http://jiuks.github.com/2013/04/14/working-with-markdown/"/>
+    <updated>2013-04-14T23:18:00+01:00</updated>
+    <id>http://jiuks.github.com/2013/04/14/working-with-markdown</id>
+    <content type="html"><![CDATA[<p>Over the last year I have been becoming more and more reliant on <a href="http://daringfireball.net/projects/markdown/">Markdown</a>. Pretty much everything I write is in <a href="http://daringfireball.net/projects/markdown/">Markdown</a>, most my writing starts in <a href="http://brettterpstra.com/projects/nvalt/">nvALT</a>, whether this is notes from meetings, emails, or anything longer I could be writing.</p>
+
+<h2>Writing</h2>
+
+<p>As an editor <a href="http://brettterpstra.com/projects/nvalt/">nvALT</a> does a good job, however for anything that is longer than a few hundred words I normally use a dedicated editor. Depending on the nature of what I am writing I would say my top three are: <a href="http://macromates.com/">TextMate</a>,  <a href="http://www.foldingtext.com/">Folding Text</a> and <a href="http://www.iawriter.com/mac/">iA Writer</a>. <a href="http://macromates.com/">TextMate</a> I like because of the autocompletion on the Escape Key, so if I am writing quite a technical document which has a lot of repeated words then it seems the quickest way of writing.</p>
+
+<!-- more -->
+
+
+<p><a href="http://www.foldingtext.com/">Folding Text</a> I like for outlining, planning out larger pieces of work and writing presentations. I also like the UI, so some of the longer things I write are done here. I think I&#8217;m right in saying that <a href="http://www.foldingtext.com/">Folding Text</a> doesn&#8217;t implement OSX&#8217;s autocorrect when typing, which I find quite useful, maybe a better typist wouldn&#8217;t need it.</p>
+
+<p><a href="http://www.iawriter.com/mac/">iA Writer</a> has the simplest and hence most productive interface. I like to use this in full screen mode when I just want to get my head down and write.</p>
+
+<p>Other things I have tried are <a href="http://bywordapp.com/">Byword</a>, <a href="http://multimarkdown.com/">Multi-Markdown Composer</a> and recently <a href="http://www.ulyssesapp.com/">Ulysses III</a>. <a href="http://bywordapp.com/">Byword</a> I feel I should like, however have just never got enough traction with. <a href="http://multimarkdown.com/">Multi-Markdown Composer</a> I get, but just don&#8217;t find writing on it that easy and I haven&#8217;t quite got the stylesheets set up correctly yet. <a href="http://www.ulyssesapp.com/">Ulysses III</a> to be honest I just don&#8217;t get. I saw a couple of good reviews for it, but it really doesn&#8217;t work for me.</p>
+
+<h2>Previewing</h2>
+
+<p><a href="http://brettterpstra.com/projects/nvalt/">nvALT</a> also has a build it preview window that can be brought up by a key command, this is useful for quick previews, however the best tool I have found for previewing is <a href="http://brettterpstra.com/">Brett Terpstra&#8217;s</a> <a href="http://markedapp.com">Marked</a>. This is just quick and easy, plus you can use different styles including a <a href="https://github.com">GitHub</a> one.</p>
+
+<p>To preview an more advanced <a href="http://daringfireball.net/projects/markdown/">Markdown</a> or <a href="http://fletcherpenney.net/multimarkdown/">Multi-Markdown</a> <a href="http://markedapp.com">Marked</a> is required.</p>
+
+<p>It should also be noted that <a href="http://multimarkdown.com/">Multi-Markdown Composer</a> uses a two pane approach, so you write and edit on the left and it previews on the right.</p>
+
+<h2>Additional Tools and Services</h2>
+
+<p><a href="http://smilesoftware.com/TextExpander/index.html">TextExpander</a> is one of the first things I install on any Mac or iOS device and I have started to build up a library of <a href="http://daringfireball.net/projects/markdown/">Markdown</a> related snippets. There are also some good libraries available online from <a href="http://macsparky.com/tesnippets/">MacSparky</a> and <a href="http://brettterpstra.com/projects/te-tools/">Brett Terpstra</a>, who also has some specific <a href="http://brettterpstra.com/2011/02/17/markdown-snippets-for-textexpander-on-ios/">iOS ones</a>.</p>
+
+<p><a href="http://brettterpstra.com/">Brett Terpstra</a> has also built a set of <a href="http://brettterpstra.com/projects/markdown-service-tools/">Markdown Service Tools</a> which give you a load of accelerators and shortcuts for writing Markdown. The one I found the most useful was <a href="http://brettterpstra.com/projects/searchlink/">SearchLink</a> which is a quick way to put placeholder links when writing a page and then service will go and serach the internet and complete all the links.</p>
+
+<h2>Consuming and Publishing</h2>
+
+<p>So that pretty much covers off the writing side of things, the next step is where any of this gets published to. Let&#8217;s start with the easy stuff. The majority of what are notes that are consumed by me, so I use <a href="http://brettterpstra.com/projects/nvalt/">nvALT</a> and <a href="http://www.dropbox.com/">Dropbox</a> to make sure everything is synced between my two laptops, iPhone and iPad. <a href="http://brettterpstra.com/projects/nvalt/">nvALT</a> has very good search and I would strongly recommend using tags.</p>
+
+<p>We also use <a href="https://github.com">GitHub</a> a lot at <a href="http://www.rittmanmead.com/">Rittman Mead</a>, <a href="https://github.com">GitHub</a> supports <a href="http://daringfireball.net/projects/markdown/">Markdown</a>, so that is pretty easy. It also goes without saying that <a href="http://octopress.org/">Octopress</a> publishes <a href="http://daringfireball.net/projects/markdown/">Markdown</a> natively, so, again, that is easy.</p>
+
+<p>We also have a <a href="http://www.wordpress.com/">Wordpress</a> <a href="http://www.rittmanmead.com/blog/">blog at Rittman Mead</a>, plus we use <a href="http://www.zendesk.com/">Zendesk</a> as a knowledge base internally. Both these sites allow you to write posts in HTML, so I generally preview the document in <a href="http://markedapp.com">Marked</a> and then copy the HTML to the clipboard.</p>
+
+<h3>Email</h3>
+
+<p>Quite often I will want to email what I have written. I have three approaches here:</p>
+
+<ol>
+<li>Convert the note into a PDF, or possibly Word, document and send as an attachment.</li>
+<li>Open up <a href="https://mail.google.com/">Gmail</a> in <a href="https://www.google.com/intl/en_uk/chrome/browser/">Chrome</a>, compose or reply to a mail and paste in my <a href="http://daringfireball.net/projects/markdown/">Markdown</a> note and use a plugin called <a href="https://chrome.google.com/webstore/detail/markdown-here/elifhakcjgalahccnjkneoccemfahfoa/related">Markdown Here</a> to convert the note to rich text.</li>
+<li>Use OSX&#8217;s Mail.app to send the mail, paste in the <a href="http://daringfireball.net/projects/markdown/">Markdown</a> and use one of the <a href="http://brettterpstra.com/projects/markdown-service-tools/">Markdown Service Tools</a> to convert it to rich text.</li>
+</ol>
+
+
+<p>For short notes, it seems a bit of an overkill to convert everything to a document and attach it so I tend to use (2) or (3) most regularly. <a href="https://chrome.google.com/webstore/detail/markdown-here/elifhakcjgalahccnjkneoccemfahfoa/related">Markdown Here</a> seems to provides a much better rendering  of the note, so aesthetically that is my preference, however it breaks my workflow, I generally prefer an email client to a browser and despite trying many different email clients, when I am using OSX I tend to find using the native apps win out, so that means I use Mail.app and Safari most regularly. I find that pretty much another other tool that converts <a href="http://daringfireball.net/projects/markdown/">Markdown</a> to Rich Text tends to use Heading 1 sizes that look way too big and some <a href="http://fletcherpenney.net/multimarkdown/">Multi-Markdown</a> features can easily be lost.</p>
+
+<p>I can&#8217;t say I really have this figured out, however I can work around it. Ideally I would like a keyboard shortcut to take a <a href="http://brettterpstra.com/projects/nvalt/">nvATL</a> note and create a new Mail.app message with something like <a href="https://github.com">GitHub</a> formatting.</p>
+
+<h2>Challenges</h2>
+
+<p>Anything more complicated than this I am still having challenges with, and am looking for ways to really solve the problem.</p>
+
+<h3>Commercial Documents</h3>
+
+<p>I write quite a lot of commercial documents at <a href="http://www.rittmanmead.com/">Rittman Mead</a>, in the form of proposals, statements of work and commercial/legal agreements. I will often draft these in <a href="http://daringfireball.net/projects/markdown/">Markdown</a>, ideally I want to then press a button, use a keyboard combination or even run a script and these will be output to a formatted PDF document.</p>
+
+<p>I believe all documents a company outputs should be a high quality. Previously I used Pages and <a href="http://office.microsoft.com/en-gb/word/">Word</a> for this. I could write fairly well formatted in Pages and the export to PDF function gave a true rendering of the Pages document. The main problem I had with this was that:</p>
+
+<ul>
+<li>I much preferred writing in <a href="http://daringfireball.net/projects/markdown/">Markdown</a>;</li>
+<li>I wanted to separate the content from the formatting, so if we changed our look and feel, or if the proposal needed to be written from the US office this was regeneration, not re-authoring;</li>
+<li>there is not a seamless integration of Pages between iOS and OSX, whereas there is for text files.</li>
+<li>Pages files, despite how good <a href="http://en.wikipedia.org/wiki/Spotlight_(software)">Spotlight</a> is, don&#8217;t have the same ease of search as text files in <a href="http://brettterpstra.com/projects/nvalt/">nvATL</a>.</li>
+</ul>
+
+
+<h3>Formatted Output</h3>
+
+<p>Currently my best approach to this problem is to us a command line utility called <a href="http://johnmacfarlane.net/pandoc/">Pandoc</a> which is a multipurpose converter that happens to take <a href="http://daringfireball.net/projects/markdown/">Markdown</a> as an input and you can select various outputs such as PDF, <a href="http://en.wikipedia.org/wiki/EPUB">ePub</a> or <a href="http://office.microsoft.com/en-gb/word/">Word</a>.</p>
+
+<p>The reason I started using <a href="http://johnmacfarlane.net/pandoc/">Pandoc</a> was because when I exported to PDF from <a href="http://markedapp.com">Marked</a> I found it followed more of a web page paradigm, so there was:</p>
+
+<ul>
+<li>no concept of pages, just one long PDF document;</li>
+<li>no way to have headers and footers in the document. I would typically use these to contain the company logo, a document reference, date and page numbers.</li>
+</ul>
+
+
+<p><a href="http://johnmacfarlane.net/pandoc/">Pandoc</a> gave me this ability, however the <a href="http://daringfireball.net/projects/markdown/">Markdown</a> to PDF conversion uses <a href="http://www.latex-project.org/">LaTex</a>. This means I had to learn a bit of <a href="http://www.latex-project.org/">LaTex</a> to be able to create the formatting, headers and footers that I needed and also the document has a bit of a <a href="http://www.latex-project.org/">LaTex</a> look and feel to it.</p>
+
+<p>One quite major issue I had with <a href="http://johnmacfarlane.net/pandoc/">Pandoc</a> was using tables in the <a href="http://daringfireball.net/projects/markdown/">Markdown</a>. <a href="http://johnmacfarlane.net/pandoc/">Pandoc</a> didn&#8217;t ever wrap the text, so if you had a table with a lot of text in, it just disappeared of the side of the page. This was a pretty big problem for me.</p>
+
+<h3>Word</h3>
+
+<p>My use of <a href="http://office.microsoft.com/en-gb/word/">Word</a> was solely driven by clients requiring to review and red line commercial and legal documents using Word&#8217;s <a href="http://office.microsoft.com/en-gb/word-help/track-changes-HA102840151.aspx">Track Changes</a> feature. I am sure a large proportion of sales of the cash cow that is Microsoft Office is driven by corporate needs like this.</p>
+
+<p><a href="http://johnmacfarlane.net/pandoc/">Pandoc</a> also does a pretty good job of generating <a href="http://office.microsoft.com/en-gb/word/">Word</a> documents, and even has the option to base the formatting on another <a href="http://office.microsoft.com/en-gb/word/">Word</a> document, where it will pick up the Heading 1, Normal and other common styles from the template document.</p>
+
+<h2>Collaboration</h2>
+
+<p>I also need to write collaboratively. <a href="http://docs.google.com/?hl=en">Google Docs</a> is excellent for this allowing for real time multi-user editing, however provides absolutely no support for <a href="http://daringfireball.net/projects/markdown/">Markdown</a> and I really struggled getting <a href="http://daringfireball.net/projects/markdown/">Markdown</a> documents formatted and uploaded to <a href="http://docs.google.com/?hl=en">Google Docs</a>.</p>
+
+<p>My current best approach is to create private <a href="https://gist.github.com/">Gists</a> and share the URL with other collaborators. <a href="https://gist.github.com/">Gists</a> can be written in <a href="http://daringfireball.net/projects/markdown/">Markdown</a> and <a href="https://github.com">GitHub</a> offers a great diff utility that I find far easier to read than <a href="http://office.microsoft.com/en-gb/word/">Word&#8217;s</a> <a href="http://office.microsoft.com/en-gb/word-help/track-changes-HA102840151.aspx">Track Changes</a>. This approach is asynchronous, as opposed to <a href="http://docs.google.com/?hl=en">Google Docs&#8217;</a> real time, synchronous editing.</p>
+
+<p>I recently read about <a href="https://draftin.com/">Draft</a> and have signed up for an account, but have yet to try it in anger.</p>
+
+<h2>Next Steps</h2>
+
+<p>The real challenge I have is to get well formatted PDFs from <a href="http://daringfireball.net/projects/markdown/">Markdown</a> to do this I will either continue looking at <a href="http://johnmacfarlane.net/pandoc/">Pandoc</a> and <a href="http://www.latex-project.org/">LaTex</a>, however I think I may have reached the limits here, without changing the type of <a href="http://daringfireball.net/projects/markdown/">Markdown</a> I write, or start to look at customising the CSS previews for <a href="http://markedapp.com">Marked</a>, though I have no idea if things like headers and footers will be possible. I do seem to remember that the PDF export from <a href="http://bywordapp.com/">Byword</a> was a multi page PDF, so that at least must be possible.</p>
+
+<h3>Source Control</h3>
+
+<p>One final idea I&#8217;m thinking about at the moment is to create a <a href="https://github.com">GitHub</a> repository out of the directory where all my text (<a href="http://daringfireball.net/projects/markdown/">Markdown</a>) files are kept. Although <a href="http://www.dropbox.com/">Dropbox</a> does a great job of syncing files and keeps an incremental history of every save, I&#8217;m thinking the ability to checkpoint files could be useful. One thing I don&#8217;t know however is how well <a href="http://www.dropbox.com/">Dropbox</a> and <a href="https://github.com">GitHub</a> play together.</p>
+
+<h2>To Conclude</h2>
+
+<p>I now use <a href="http://daringfireball.net/projects/markdown/">Markdown</a> to write everything, or at least everything I write starts out as <a href="http://daringfireball.net/projects/markdown/">Markdown</a>. Where the output can be in <a href="http://daringfireball.net/projects/markdown/">Markdown</a> or HTML then this works amazingly well. However where my workflow requires a more complex output, or I need to collaborate with others, then there are still a few challenges to resolve before the process is seamless.</p>
+
+<p>It should also be noted that there is a growing number of resources available to augment writing in <a href="http://daringfireball.net/projects/markdown/">Markdown</a>, some of which I have mentioned above. Using <a href="http://daringfireball.net/projects/markdown/">Markdown</a> and these resources has significantly improved my productivity and made writing far more enjoyable.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Changing the Domain of this Site]]></title>
+    <link href="http://jiuks.github.com/2013/01/27/changing-the-domain-of-this-site/"/>
+    <updated>2013-01-27T10:54:00+00:00</updated>
+    <id>http://jiuks.github.com/2013/01/27/changing-the-domain-of-this-site</id>
+    <content type="html"><![CDATA[<h2>ResourceMine.net</h2>
+
+<p>I originally set this site up as an experiment, however I have been impressed with <a href="http://octopress.org/" title="Octopress">Octopress</a> and want to use the site as a place to dump my thoughts. resourcemine.net was a domain that I had registered, so I configured the DNS for this domain.</p>
+
+<p>Over the weekend I registered <a href="http://www.jonmead.me" title="Jon Mead">jonmead.me</a>, <a href="http://www.jonmead.com" title="Jon Mead">jonmead.com</a> and <a href="http://www.jonmead.co.uk" title="Jon Mead">jonmead.co.uk</a> and I am going to use jonmead.me for this site.</p>
+
+<p>After setting up the DNS for the jonmead.* URLs, these are the steps I took.</p>
+
+<!-- more -->
+
+
+<h2>Server</h2>
+
+<p>The server is running in my basement on <a href="http://www.proxmox.com/" title="Proxmox - Start page">ProxMox</a>, its a Ubuntu 12.04  container. By default this had Apache2 installed. I covered <a href="http://jiuks.github.com/2013/01/19/basic-apache2-configuration-on-ubuntu/">Basic Apache2 Configuration on Ubuntu</a> earlier in the month.</p>
+
+<p>There were no changes required to the server, nor my internal network or router.</p>
+
+<h2>Client Setup</h2>
+
+<p>I decided to use my MBP 15&#8221; retina as the clint I already had <a href="http://git-scm.com/" title="Git">Git</a> and <a href="http://www.ruby-lang.org/en/news/2012/11/09/ruby-1-9-3-p327-is-released/" title="Ruby 1.9.3-p327 is released">Ruby 1.9.3</a> installed, so that was easy, and then followed the <a href="http://octopress.org/docs/setup/">Octopress Setup</a> documentation and chose to <a href="http://octopress.org/docs/deploying/rsync/" title="Deploying with rsync - Octopress">rsync</a> to the above server.</p>
+
+<p>The only configuration changes I made were in <code>_config.yaml</code>, as below:</p>
+
+<pre><code># ----------------------- #
+#      Main Configs       #
+# ----------------------- #
+
+url: http://jonmead.me
+title: Jon Mead
+subtitle: Men do not quit playing because they grow old; they grow old because they quit playing
+author: Jon Mead
+simple_search: http://google.com/search
+description:
+</code></pre>
+
+<h2>Site Search and Google</h2>
+
+<p>As <a href="http://octopress.org/" title="Octopress">Octopress</a> is a static blogging framework, its search is done by Google&#8217;s <code>site:jonmead.me</code> directive.</p>
+
+<p>I originally set this site up to capture my thoughts, so hadn&#8217;t considered Search Engine Opimization (SEO) would be something that I needed to think of, however I wanted to make sure Google was aware of the site so the search would work.</p>
+
+<p>I had configured  <a href="http://www.google.com/analytics/" title="Google Analytics Official Website - Web Analytics &amp; Reporting ...">Google Analytics</a> for resourcemine.net, so I needed to repeat the process for jonmead.me.</p>
+
+<h3>Google Analytics</h3>
+
+<p>I logged in to http://analytics.google.com, went to the Administer tab and added a new <strong>Web Property</strong>.</p>
+
+<p><img src="https://dl.dropbox.com/u/299238/2013-01-27_10-30-46.png" alt="" /></p>
+
+<p>This gave me a <strong>Tracking ID</strong>, which I could then add to <code>my _config.yml</code>. The <strong>Tracking ID</strong> is now added to each page.</p>
+
+<p>The way to access the site is now <a href="http://www.jonmead.me" title="Jon Mead">http://www.jonmead.me</a></p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[The Changing World of Business Intelligence]]></title>
+    <link href="http://jiuks.github.com/2013/01/24/the-changing-world-of-business-intelligence/"/>
+    <updated>2013-01-24T22:12:00+00:00</updated>
+    <id>http://jiuks.github.com/2013/01/24/the-changing-world-of-business-intelligence</id>
+    <content type="html"><![CDATA[<p>I have spent the first half of this week in an internal <a href="http://www.rittmanmead.com">Rittman Mead</a> sales workshop, during which there have been a lot of discussions about the past and future of Business Intelligence, or <a href="http://www.oracle.com/us/solutions/business-analytics/overview/" title="Oracle Business Analytics - Overview | Solutions | Oracle">Business Analytics</a> as <a href="http://www.oracle.com">Oracle</a> are now calling it.</p>
+
+<p>One thing that struck me was the change in Business Intelligence compared to when I started working in the industry.</p>
+
+<!-- more -->
+
+
+<p>There used to be a fairly straight forward graphic that was used to explain Business Intelligence.</p>
+
+<p><img src="https://dl.dropbox.com/u/299238/2013-01-23_22-31-32.png" alt="" /></p>
+
+<p>The bottom of the pyramid was the data in the organisation, there was then a transformation layer that turned it into information, it was then consumed by end users as knowledge which could be used in their decision making process.</p>
+
+<p>I feel this has now been replaced by the following graphic.</p>
+
+<p><img src="https://dl.dropbox.com/u/299238/2013-01-23_22-33-58.png" alt="" /></p>
+
+<p>This model still starts with data, however the source, volume, variety and velocity (deliberately borrowed from standard <a href="http://en.wikipedia.org/wiki/Big_Data" title="Big Data">Big Data</a> definitions) of this data has increased. The organisation now looks at more internal sources of data, plus external sources of data as well, such as social media and third party market research.</p>
+
+<p>The biggest change is the transformation layer. Depending on the source of data and the questions that are being asked of the organisation there are now two differ approaches: schema on write and schema on read.</p>
+
+<h3>Schema on Write</h3>
+
+<p>This is the traditional approach for Business Intelligence. A model, often dimensional, is built as part of the design process. This model is an abstraction of the complexity of the underlying systems, put in business terms. The purpose of the model is to allow the business users to interrogate the date in a way they understand.</p>
+
+<p>The model is instantiated through physical database tables and the date is loaded through an ETL (extract, transform and load) process that takes data from one or more source systems and transforms it to fit the model, then loads it into the model.</p>
+
+<p>The key thing is that the model is determined before the data is finally written and the users are very much guided or driven by the model in how they query the data and what results they can get from the system. The designer must anticipate the queries and requests in advance of the user asking the questions.</p>
+
+<h3>Schema on Read</h3>
+
+<p>Schema on read implies works on a different principle and is more common in the <a href="http://en.wikipedia.org/wiki/Big_Data" title="Big Data">Big Data</a> world. The data is not transformed in any way when it is stored, the data store acts as a big bucket.</p>
+
+<p>The modelling of the data only occurs when the data is read. Map/Reduce is the clearest example, the mapping is the understanding of the data structure. <a href="http://hadoop.apache.org/" title="Welcome to Apache™ Hadoop®!">Hadoop</a> is a large distributed file system, which is very good at storing large volumes of data, this is potential. It is only the mapping of this data that provides value, this is done when the data is read, not written.</p>
+
+<h3>New World Order</h3>
+
+<p>So whereas Business Intelligence used to always be driven by the model, the <a href="http://en.wikipedia.org/wiki/Extract,_transform,_load" title="ETL">ETL</a> process to populate the model and the reporting tool to query the model, there is now an approach where the data is collected its raw form, and advanced statistical or analytical tools are used to interrogate the data. An example of one such tool is <a href="http://en.wikipedia.org/wiki/R_(programming_language)" title="R">R</a>.</p>
+
+<p>The driver for which approach to use is often driven by what the user wants to find out. If the question is clearly formed and the sources of data that are required to answer it well understood, for example how many units of a product have we sold, then the traditional schema on write approach is best.</p>
+
+<p>If the question is more open, for example what is causing our sales of a product to drop, why are customers churning or even <a href="http://en.wikipedia.org/wiki/There_are_known_knowns" title="There are known knowns - Wikipedia, the free encyclopedia">unknown unknowns</a>, then the schema on read is most appropriate.</p>
+
+<h3>Decisions, Decisions, Decisions</h3>
+
+<p>Whichever approach is taken the end result is that the user, or business, wants to make a decision, or take some action based on making sense of some data. Organisations are becoming increasingly data driven, and despite the evolution of Business Intelligence, the ability of an organisation to derive value from data will be key to its success.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Decision Making]]></title>
+    <link href="http://jiuks.github.com/2013/01/20/decision-making/"/>
+    <updated>2013-01-20T09:36:00+00:00</updated>
+    <id>http://jiuks.github.com/2013/01/20/decision-making</id>
+    <content type="html"><![CDATA[<p>Business Intelligence is designed and implemented to enable managers to make better business decisions. Business Intelligence provides metrics or numbers that reflect the organisation&#8217;s performance. At a high level this could be more profit, reduced costs or confirmation of adherence to laws, however does this reach as far as game changing strategies?</p>
+
+<p>Part of the reason I am interested in this is because the value an organisation gets from Business Intelligence determines how much they will invest in it.</p>
+
+<!-- more -->
+
+
+<p>The question I have is how useful it is at doing this, this question is borne partly from my experiences of implementing Business Intelligence systems for a number of clients, and partly from my own experiences of running Rittman Mead. The key definition for me is what are the key decisions that define businesses and what are the day to day decisions that sustain businesses.</p>
+
+<p>I would suggest that decisions that define businesses, for example, that take them into a new market, start producing a new product are made using acumen, experience and intuition. These are human traits, not something derived from numbers. Decisions that sustain the business are much more effectively made by using metrics.</p>
+
+<p>Examples of sustaining a business for me, I and based on our experiences at Rittman Mead would be looking at project profitability, staff utilisation, cash flow and overall profit and loss. We have very detailed metrics for these items. If any of them fall too far from target, the company could be in serious trouble, so maintaining these is essential to maintaining the company. Business Intelligence is key here and we use tables, graphs and dashboards to view this data.</p>
+
+<p>For more strategic decisions, such as opening an office in the US or India, or purchasing an <a href="http://www.oracle.com/us/solutions/ent-performance-bi/business-intelligence/exalytics-bi-machine/overview/" title="Oracle Exalytics In-Memory Machine">Exalytics</a> server then it comes back to a human decision, with the current tools we use there is no way we can prove this is going to be a ground breaking decision, or a ruinous one. What we can to is plan for the impact it has, we can see if we have the cash reserves to do it, and we can measure what the impact will be by doing it by measuring pipeline, sales, revenue and costs against their current values.</p>
+
+<p>Books such as <a href="http://www.amazon.co.uk/Competing-Analytics-New-Science-Winning/dp/1422103323" title="Competing on Analytics: The New Science of Winning - Amazon.co.uk">Competing on Analytics</a> argue that some organisations get ahead by using analytics (read numbers, business intelligence etc), i would argue that often in the examples analytics is used to support and enhance strategies, not define them.</p>
+
+<p>Therefore in order to understand how to run a business successfully a manager must understand their own psychology of decision making, and potentially the industry or market they are in.</p>
+
+<p>So to understand how to make a company great do we need to understand how humans make decisions better, for example looking at various biases and heuristics we follow, or do we have to get better Business Intelligence or analytics systems.</p>
+
+<p>For me the answer is both, people have to come up with strategies and then use Business Intelligence to prove they are sustainable.</p>
+
+<p>One footnote I would like to add to this is Big Data. Where Big Data can potentially change this paradigm, Big Data and it&#8217;s exploration allows organisations to potentially find out new information which they were unaware of, which could then become the seeds for future strategies.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[What I did next with Octopress]]></title>
+    <link href="http://jiuks.github.com/2013/01/19/what-i-did-next-with-octopress/"/>
+    <updated>2013-01-19T22:30:00+00:00</updated>
+    <id>http://jiuks.github.com/2013/01/19/what-i-did-next-with-octopress</id>
+    <content type="html"><![CDATA[<h2>Themes</h2>
+
+<p>I saw a website called <a href="http://www.ewal.net">Ewal.net</a> that I liked the look and feel of and contacted the guy behind it, he said the theme was based on <a href="https://github.com/tommy351/Octopress-Theme-Slash">Slash</a>.</p>
+
+<p>I started by installing Slash.</p>
+
+<pre><code>cd octopress
+git clone git://github.com/tommy351/Octopress-Theme-Slash.git .themes/slash
+rake install['slash']
+rake generate
+rake deploy
+</code></pre>
+
+<!-- more -->
+
+
+<p></p>
+
+<p>Didn&#8217;t really like it, and when I looked at <a href="https://github.com/ervwalter/octopress-ewal">https://github.com/ervwalter/octopress-ewal</a> I couldn&#8217;t see <strong>slash</strong> in the <code>.themes</code> directory.</p>
+
+<p>Reverted changes.</p>
+
+<pre><code>rake install['classic']
+rake generate
+rake deploy
+</code></pre>
+
+<p>Maybe adding another theme should be left for another day. However I&#8217;m impressed with the ease that the theme could be changed.</p>
+
+<h2>Customisations</h2>
+
+<p>My source of inspiration was again <a href="http://www.ewal.net">Ewal.net</a> and an article about <a href="http://www.ewal.net/2012/09/08/octopress-customizations/">customisations</a>. I decided to try a few.</p>
+
+<p>I removed <strong>blog</strong> from the URL. I like the idea of <a href="!g">FancyBox</a>, but I am not sure of the best way to integrate it to my Markdown workflow.</p>
+
+<p>The next change I made was to add the line</p>
+
+<pre><code>system "mate \"#{filename}\""
+</code></pre>
+
+<p>to the <strong>new_post</strong> section of the <code>Rakefile</code>. This opened up the new post in TextMate.</p>
+
+<h2>Comments</h2>
+
+<p><a href="http://octopress.org/" title="Octopress">Octopress</a> supports <a href="http://disqus.com/" title="DISQUS - Elevating the discussion">Disqus</a> comments. I wanted to enable these on the site. I went to <a href="http://disqus.com/" title="DISQUS - Elevating the discussion">Disqus</a> and signed up, registered the site <a href="http://www.resourcemine.net">resourcemine</a>, and edited the <code>_config.yml</code> file to add my <code>disqus_short_name</code> and <code>disqus_show_comment_count</code>. Note the <code>disqus_short_name</code> is the shortname from <a href="http://disqus.com/" title="DISQUS - Elevating the discussion">Disqus</a>.</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Getting OEID up and running]]></title>
+    <link href="http://jiuks.github.com/2013/01/19/getting-oeid-up-and-running/"/>
+    <updated>2013-01-19T16:45:00+00:00</updated>
+    <id>http://jiuks.github.com/2013/01/19/getting-oeid-up-and-running</id>
+    <content type="html"><![CDATA[<h3>Create the project</h3>
+
+<p>Create new Integrator project</p>
+
+<p><img src="https://dl.dropbox.com/u/299238/2013-01-18_23-01-04.png" alt="" /></p>
+
+<p>Create OEID data store</p>
+
+<p>Copy the <code>workspace.prm</code> file from the quickstart application. Edit the <code>workspace.prm</code> file. Change the parameter <code>DATA_STORE_NAME</code>.</p>
+
+<!-- more -->
+
+
+<h3>Create the data store</h3>
+
+<p>Create a new graph called InitDataStore. Copy one component that contains the web service call to create a data store. Just copy the <strong>Create Data Store</strong> component.</p>
+
+<p><img src="https://dl.dropbox.com/u/299238/2013-01-18_23-11-43.png" alt="" /></p>
+
+<h3>Run the graph</h3>
+
+<p>Use the run button. Test by pinging the URL <a href="http://localhost:7770/admin/data-store-name?op=ping">http://localhost:7770/admin/data-store-name?op=ping</a> (Note: 7770 is the default port the Endeca Server runs on).</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Basic Apache2 configuration on Ubuntu]]></title>
+    <link href="http://jiuks.github.com/2013/01/19/basic-apache2-configuration-on-ubuntu/"/>
+    <updated>2013-01-19T15:53:00+00:00</updated>
+    <id>http://jiuks.github.com/2013/01/19/basic-apache2-configuration-on-ubuntu</id>
+    <content type="html"><![CDATA[<h2>Useful links</h2>
+
+<ul>
+<li><a href="https://help.ubuntu.com/10.04/serverguide/httpd.html">https://help.ubuntu.com/10.04/serverguide/httpd.html</a></li>
+<li><a href="https://help.ubuntu.com/community/ApacheMySQLPHP">https://help.ubuntu.com/community/ApacheMySQLPHP</a></li>
+</ul>
+
+
+<h2>Where is index.html</h2>
+
+<p>The default webroot directory is <code>/var/www/index.html</code>.</p>
+
+<h2>Setting up Octopress as a site</h2>
+
+<p>From: <a href="https://help.ubuntu.com/community/ApacheMySQLPHP">https://help.ubuntu.com/community/ApacheMySQLPHP</a></p>
+
+<p>Make a directory.</p>
+
+<pre><code>mkdir /home/jonmead/octopress/
+</code></pre>
+
+<p>Copy over the default config files.</p>
+
+<pre><code>sudo cp /etc/apache2/sites-available/default /etc/apache2/sites-available/octopress
+sudo vim /etc/apache2/sites-available/octopress
+</code></pre>
+
+<!-- more -->
+
+
+<p>Change the DocumentRoot to point to the new location. For example, <code>/home/jonmead/octopress/</code>.</p>
+
+<p>Change the Directory directive, replace <code>&lt;Directory /var/www/&gt;</code> to <code>&lt;Directory /home/jonmead/octopress/&gt;</code>.</p>
+
+<p>You can also set separate logs for each site. To do this, change the ErrorLog and CustomLog directives. This is optional, but handy if you have many sites</p>
+
+<p>Now, we must deactivate the old site, and activate our new one. Ubuntu provides two small utilities that take care of this: a2ensite (apache2enable site) and a2dissite (apache2disable site).</p>
+
+<pre><code>sudo a2dissite default &amp;&amp; sudo a2ensite octopress
+</code></pre>
+
+<p>Finally, we restart Apache2:</p>
+
+<pre><code>sudo /etc/init.d/apache2 restart
+</code></pre>
+
+<p>If you have not created <code>/home/jonmead/octopress/</code>, you will receive an warning message. To test the new site, create a file in <code>/home/user/public_html/</code>:</p>
+
+<pre><code>echo '&lt;b&gt;Hello! It is working!&lt;/b&gt;' &gt; /home/jonmead/octopress/index.html
+</code></pre>
+
+<p>Finally, browse to <a href="http://localhost/">http://localhost/</a></p>
+]]></content>
+  </entry>
+  
+</feed>
