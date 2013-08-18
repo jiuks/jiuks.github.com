@@ -4,7 +4,7 @@
   <title><![CDATA[Jon Mead]]></title>
   <link href="http://jiuks.github.com/atom.xml" rel="self"/>
   <link href="http://jiuks.github.com/"/>
-  <updated>2013-08-18T15:57:00+01:00</updated>
+  <updated>2013-08-18T16:12:35+01:00</updated>
   <id>http://jiuks.github.com/</id>
   <author>
     <name><![CDATA[Jon Mead]]></name>
@@ -12,6 +12,32 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Mailbox and Mail]]></title>
+    <link href="http://jiuks.github.com/2013/08/18/mailbox-and-mail/"/>
+    <updated>2013-08-18T16:10:00+01:00</updated>
+    <id>http://jiuks.github.com/2013/08/18/mailbox-and-mail</id>
+    <content type="html"><![CDATA[<p>Recently I decided to try <a href="http://www.mailboxapp.com">Mailbox</a> again. I had initially dismissed the app, probably partly due to  the hype and partly due to the fact it messed with my folders, created new ones, and starred things without me wanting it to, however recently I have been spending more and more time using my iPad, plus I have seen a couple of colleagues using it.</p>
+
+<p>As a stand alone app I have really gotten to like <a href="http://www.mailboxapp.com">Mailbox&#8217;s</a> deferral system. I am quite often on the road, or in meetings, so I found it really helped my keeping to a zero inbox. I do have a concern that from a GTD purists point of view I am just creating another Inbox with the deferred items, however the fact they pop back into my email, which is ultimately my main influx of information and hence drives inbound tasks, is incredibly useful. It acts as a pretty good reminder system for things I don&#8217;t really know what will happen yet, so maybe aren&#8217;t ready to be made into tasks.</p>
+
+<!-- more -->
+
+
+<p>Where I have started to struggle is then incorporating this new workflow into my laptop or desktop life. I almost feel like I have a preferred email system on the iPad. You just can&#8217;t do the deferring thing from any app on OSX, or from any browser based tool.</p>
+
+<p>Unfortunately this is the undoing of me using this app. One of my main criteria for anything I use is that it is portable across any device. <a href="http://www.mailboxapp.com">Mailbox</a> is not. One additional point to note with <a href="http://www.mailboxapp.com">Mailbox</a> is that it starred messages when they came back into your inbox. Again, this was fine when just working with the iOS app alone, however when I started using Mail it doesn&#8217;t seem to sync stars well to Gmail, so more confusion arose. Ideally I would only want messages starred if I starred them.</p>
+
+<p>Writing this got me thinking about how to solve this problem. Another tool I use is called <a href="http://www.sanebox.com">SaneBox</a>. I mainly used this tool to filter out messages from my inbox that I did not think important, or that I wanted to read when I had the time, rather than interrupt my day. Another feature of <a href="http://www.sanebox.com">SaneBox</a> is it can defer email, much is the same way <a href="http://www.mailboxapp.com">Mailbox</a> can, see <a href="https://support.sanebox.com/entries/23106002-Create-custom-defer-folders-to-hold-mail-for-a-different-length-of-time">here</a> for details. This seemed like a good cross-device/cross-app solution.</p>
+
+<p>I have now setup some folders to defer my email to (see below), and now have a system that can work with any email client.</p>
+
+<p><img src="https://dl.dropboxusercontent.com/u/299238/sb-defer.png" alt="" /></p>
+
+<p>The downside is that it is not nearly as slick as <a href="http://www.mailboxapp.com">Mailbox</a>, I will miss some of the neat features of <a href="http://www.mailboxapp.com">Mailbox</a>, its threading beats the default iOS Mail app, for example, however it should give me an easier system to manage overall.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[A Realisation About How I Organise My Time]]></title>
