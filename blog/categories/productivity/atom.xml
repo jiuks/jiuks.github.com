@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Productivity | Jon Mead]]></title>
-  <link href="http://jiuks.github.com/blog/categories/productivity/atom.xml" rel="self"/>
-  <link href="http://jiuks.github.com/"/>
-  <updated>2013-08-18T16:19:30+01:00</updated>
-  <id>http://jiuks.github.com/</id>
+  <link href="http://www.jonmead.me/blog/categories/productivity/atom.xml" rel="self"/>
+  <link href="http://www.jonmead.me/"/>
+  <updated>2013-08-18T21:59:58+01:00</updated>
+  <id>http://www.jonmead.me/</id>
   <author>
     <name><![CDATA[Jon Mead]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Mailbox and Mail]]></title>
-    <link href="http://jiuks.github.com/2013/08/18/mailbox-and-mail/"/>
+    <link href="http://www.jonmead.me/2013/08/18/mailbox-and-mail/"/>
     <updated>2013-08-18T16:10:00+01:00</updated>
-    <id>http://jiuks.github.com/2013/08/18/mailbox-and-mail</id>
+    <id>http://www.jonmead.me/2013/08/18/mailbox-and-mail</id>
     <content type="html"><![CDATA[<p>Recently I decided to try <a href="http://www.mailboxapp.com">Mailbox</a> again. I had initially dismissed the app, probably partly due to  the hype and partly due to the fact it messed with my folders, created new ones, and starred things without me wanting it to, however recently I have been spending more and more time using my iPad, plus I have seen a couple of colleagues using it.</p>
 
 <p>As a stand alone app I have really gotten to like <a href="http://www.mailboxapp.com">Mailbox's</a> deferral system. I am quite often on the road, or in meetings, so I found it really helped my keeping to a zero inbox. I do have a concern that from a GTD purists point of view I am just creating another Inbox with the deferred items, however the fact they pop back into my email, which is ultimately my main influx of information and hence drives inbound tasks, is incredibly useful. It acts as a pretty good reminder system for things I don't really know what will happen yet, so maybe aren't ready to be made into tasks.</p>
@@ -41,9 +41,9 @@
   
   <entry>
     <title type="html"><![CDATA[A Realisation About How I Organise My Time]]></title>
-    <link href="http://jiuks.github.com/2013/08/11/a-realisation-about-how-i-organise-my-time/"/>
+    <link href="http://www.jonmead.me/2013/08/11/a-realisation-about-how-i-organise-my-time/"/>
     <updated>2013-08-11T19:07:00+01:00</updated>
-    <id>http://jiuks.github.com/2013/08/11/a-realisation-about-how-i-organise-my-time</id>
+    <id>http://www.jonmead.me/2013/08/11/a-realisation-about-how-i-organise-my-time</id>
     <content type="html"><![CDATA[<p>I have read a lot and tried to do a lot regarding productivity over the last few years. A couple of days ago I read <a href="http://mosx.tumblr.com/post/56776970361/find-your-life-priorities-with-omnifocus-omnigraffle">this article</a> which was linked to from the <a href="http://simplicitybliss.com/">Simplicity Bliss website</a>.</p>
 
 <p>One thing the article spoke about was prioritising your tasks and how to do that within a Getting Things Done framework or tool. I use a system in <a href="http://www.omnigroup.com/omnifocus">OmniFocus</a> where I create some high level folders to structure my projects, I have one called Immediate and one called Focus. I use these to try to provide focus to the multitude of tasks and projects I am involved in.</p>
@@ -56,9 +56,9 @@
   
   <entry>
     <title type="html"><![CDATA[Working with Markdown]]></title>
-    <link href="http://jiuks.github.com/2013/04/14/working-with-markdown/"/>
+    <link href="http://www.jonmead.me/2013/04/14/working-with-markdown/"/>
     <updated>2013-04-14T23:18:00+01:00</updated>
-    <id>http://jiuks.github.com/2013/04/14/working-with-markdown</id>
+    <id>http://www.jonmead.me/2013/04/14/working-with-markdown</id>
     <content type="html"><![CDATA[<p>Over the last year I have been becoming more and more reliant on <a href="http://daringfireball.net/projects/markdown/">Markdown</a>. Pretty much everything I write is in <a href="http://daringfireball.net/projects/markdown/">Markdown</a>, most my writing starts in <a href="http://brettterpstra.com/projects/nvalt/">nvALT</a>, whether this is notes from meetings, emails, or anything longer I could be writing.</p>
 
 <h2>Writing</h2>

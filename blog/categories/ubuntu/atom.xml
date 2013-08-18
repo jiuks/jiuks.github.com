@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Ubuntu | Jon Mead]]></title>
-  <link href="http://jiuks.github.com/blog/categories/ubuntu/atom.xml" rel="self"/>
-  <link href="http://jiuks.github.com/"/>
-  <updated>2013-08-18T16:19:30+01:00</updated>
-  <id>http://jiuks.github.com/</id>
+  <link href="http://www.jonmead.me/blog/categories/ubuntu/atom.xml" rel="self"/>
+  <link href="http://www.jonmead.me/"/>
+  <updated>2013-08-18T21:59:58+01:00</updated>
+  <id>http://www.jonmead.me/</id>
   <author>
     <name><![CDATA[Jon Mead]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Basic Apache2 configuration on Ubuntu]]></title>
-    <link href="http://jiuks.github.com/2013/01/19/basic-apache2-configuration-on-ubuntu/"/>
+    <link href="http://www.jonmead.me/2013/01/19/basic-apache2-configuration-on-ubuntu/"/>
     <updated>2013-01-19T15:53:00+00:00</updated>
-    <id>http://jiuks.github.com/2013/01/19/basic-apache2-configuration-on-ubuntu</id>
+    <id>http://www.jonmead.me/2013/01/19/basic-apache2-configuration-on-ubuntu</id>
     <content type="html"><![CDATA[<h2>Useful links</h2>
 
 <ul>

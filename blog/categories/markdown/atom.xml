@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Markdown | Jon Mead]]></title>
-  <link href="http://jiuks.github.com/blog/categories/markdown/atom.xml" rel="self"/>
-  <link href="http://jiuks.github.com/"/>
-  <updated>2013-08-18T16:19:30+01:00</updated>
-  <id>http://jiuks.github.com/</id>
+  <link href="http://www.jonmead.me/blog/categories/markdown/atom.xml" rel="self"/>
+  <link href="http://www.jonmead.me/"/>
+  <updated>2013-08-18T21:59:58+01:00</updated>
+  <id>http://www.jonmead.me/</id>
   <author>
     <name><![CDATA[Jon Mead]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Working with Markdown]]></title>
-    <link href="http://jiuks.github.com/2013/04/14/working-with-markdown/"/>
+    <link href="http://www.jonmead.me/2013/04/14/working-with-markdown/"/>
     <updated>2013-04-14T23:18:00+01:00</updated>
-    <id>http://jiuks.github.com/2013/04/14/working-with-markdown</id>
+    <id>http://www.jonmead.me/2013/04/14/working-with-markdown</id>
     <content type="html"><![CDATA[<p>Over the last year I have been becoming more and more reliant on <a href="http://daringfireball.net/projects/markdown/">Markdown</a>. Pretty much everything I write is in <a href="http://daringfireball.net/projects/markdown/">Markdown</a>, most my writing starts in <a href="http://brettterpstra.com/projects/nvalt/">nvALT</a>, whether this is notes from meetings, emails, or anything longer I could be writing.</p>
 
 <h2>Writing</h2>

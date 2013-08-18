@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Octopress | Jon Mead]]></title>
-  <link href="http://jiuks.github.com/blog/categories/octopress/atom.xml" rel="self"/>
-  <link href="http://jiuks.github.com/"/>
-  <updated>2013-08-18T16:19:30+01:00</updated>
-  <id>http://jiuks.github.com/</id>
+  <link href="http://www.jonmead.me/blog/categories/octopress/atom.xml" rel="self"/>
+  <link href="http://www.jonmead.me/"/>
+  <updated>2013-08-18T21:59:58+01:00</updated>
+  <id>http://www.jonmead.me/</id>
   <author>
     <name><![CDATA[Jon Mead]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[Changing the Domain of this Site]]></title>
-    <link href="http://jiuks.github.com/2013/01/27/changing-the-domain-of-this-site/"/>
+    <link href="http://www.jonmead.me/2013/01/27/changing-the-domain-of-this-site/"/>
     <updated>2013-01-27T10:54:00+00:00</updated>
-    <id>http://jiuks.github.com/2013/01/27/changing-the-domain-of-this-site</id>
+    <id>http://www.jonmead.me/2013/01/27/changing-the-domain-of-this-site</id>
     <content type="html"><![CDATA[<h2>ResourceMine.net</h2>
 
 <p>I originally set this site up as an experiment, however I have been impressed with <a href="http://octopress.org/" title="Octopress">Octopress</a> and want to use the site as a place to dump my thoughts. resourcemine.net was a domain that I had registered, so I configured the DNS for this domain.</p>
@@ -75,9 +75,9 @@ description:
   
   <entry>
     <title type="html"><![CDATA[What I did next with Octopress]]></title>
-    <link href="http://jiuks.github.com/2013/01/19/what-i-did-next-with-octopress/"/>
+    <link href="http://www.jonmead.me/2013/01/19/what-i-did-next-with-octopress/"/>
     <updated>2013-01-19T22:30:00+00:00</updated>
-    <id>http://jiuks.github.com/2013/01/19/what-i-did-next-with-octopress</id>
+    <id>http://www.jonmead.me/2013/01/19/what-i-did-next-with-octopress</id>
     <content type="html"><![CDATA[<h2>Themes</h2>
 
 <p>I saw a website called <a href="http://www.ewal.net">Ewal.net</a> that I liked the look and feel of and contacted the guy behind it, he said the theme was based on <a href="https://github.com/tommy351/Octopress-Theme-Slash">Slash</a>.</p>
@@ -128,9 +128,9 @@ rake deploy
   
   <entry>
     <title type="html"><![CDATA[Basic Apache2 configuration on Ubuntu]]></title>
-    <link href="http://jiuks.github.com/2013/01/19/basic-apache2-configuration-on-ubuntu/"/>
+    <link href="http://www.jonmead.me/2013/01/19/basic-apache2-configuration-on-ubuntu/"/>
     <updated>2013-01-19T15:53:00+00:00</updated>
-    <id>http://jiuks.github.com/2013/01/19/basic-apache2-configuration-on-ubuntu</id>
+    <id>http://www.jonmead.me/2013/01/19/basic-apache2-configuration-on-ubuntu</id>
     <content type="html"><![CDATA[<h2>Useful links</h2>
 
 <ul>

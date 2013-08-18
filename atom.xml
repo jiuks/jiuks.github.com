@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Jon Mead]]></title>
-  <link href="http://jiuks.github.com/atom.xml" rel="self"/>
-  <link href="http://jiuks.github.com/"/>
-  <updated>2013-08-18T16:19:30+01:00</updated>
-  <id>http://jiuks.github.com/</id>
+  <link href="http://www.jonmead.me/atom.xml" rel="self"/>
+  <link href="http://www.jonmead.me/"/>
+  <updated>2013-08-18T21:59:58+01:00</updated>
+  <id>http://www.jonmead.me/</id>
   <author>
     <name><![CDATA[Jon Mead]]></name>
     
@@ -16,10 +16,10 @@
   <entry>
     
     <title type="html"><![CDATA[Mailbox and Mail]]></title>
-    <link href="http://jiuks.github.com/2013/08/18/mailbox-and-mail/"/>
+    <link href="http://www.jonmead.me/2013/08/18/mailbox-and-mail/"/>
     
     <updated>2013-08-18T16:10:00+01:00</updated>
-    <id>http://jiuks.github.com/2013/08/18/mailbox-and-mail</id>
+    <id>http://www.jonmead.me/2013/08/18/mailbox-and-mail</id>
     
     <content type="html"><![CDATA[<p>Recently I decided to try <a href="http://www.mailboxapp.com">Mailbox</a> again. I had initially dismissed the app, probably partly due to  the hype and partly due to the fact it messed with my folders, created new ones, and starred things without me wanting it to, however recently I have been spending more and more time using my iPad, plus I have seen a couple of colleagues using it.</p>
 
@@ -46,10 +46,10 @@
   <entry>
     
     <title type="html"><![CDATA[A Realisation About How I Organise My Time]]></title>
-    <link href="http://jiuks.github.com/2013/08/11/a-realisation-about-how-i-organise-my-time/"/>
+    <link href="http://www.jonmead.me/2013/08/11/a-realisation-about-how-i-organise-my-time/"/>
     
     <updated>2013-08-11T19:07:00+01:00</updated>
-    <id>http://jiuks.github.com/2013/08/11/a-realisation-about-how-i-organise-my-time</id>
+    <id>http://www.jonmead.me/2013/08/11/a-realisation-about-how-i-organise-my-time</id>
     
     <content type="html"><![CDATA[<p>I have read a lot and tried to do a lot regarding productivity over the last few years. A couple of days ago I read <a href="http://mosx.tumblr.com/post/56776970361/find-your-life-priorities-with-omnifocus-omnigraffle">this article</a> which was linked to from the <a href="http://simplicitybliss.com/">Simplicity Bliss website</a>.</p>
 
@@ -65,10 +65,10 @@
   <entry>
     
     <title type="html"><![CDATA[Working with Markdown]]></title>
-    <link href="http://jiuks.github.com/2013/04/14/working-with-markdown/"/>
+    <link href="http://www.jonmead.me/2013/04/14/working-with-markdown/"/>
     
     <updated>2013-04-14T23:18:00+01:00</updated>
-    <id>http://jiuks.github.com/2013/04/14/working-with-markdown</id>
+    <id>http://www.jonmead.me/2013/04/14/working-with-markdown</id>
     
     <content type="html"><![CDATA[<p>Over the last year I have been becoming more and more reliant on <a href="http://daringfireball.net/projects/markdown/">Markdown</a>. Pretty much everything I write is in <a href="http://daringfireball.net/projects/markdown/">Markdown</a>, most my writing starts in <a href="http://brettterpstra.com/projects/nvalt/">nvALT</a>, whether this is notes from meetings, emails, or anything longer I could be writing.</p>
 
@@ -190,10 +190,10 @@
   <entry>
     
     <title type="html"><![CDATA[Changing the Domain of this Site]]></title>
-    <link href="http://jiuks.github.com/2013/01/27/changing-the-domain-of-this-site/"/>
+    <link href="http://www.jonmead.me/2013/01/27/changing-the-domain-of-this-site/"/>
     
     <updated>2013-01-27T10:54:00+00:00</updated>
-    <id>http://jiuks.github.com/2013/01/27/changing-the-domain-of-this-site</id>
+    <id>http://www.jonmead.me/2013/01/27/changing-the-domain-of-this-site</id>
     
     <content type="html"><![CDATA[<h2>ResourceMine.net</h2>
 
@@ -208,7 +208,7 @@
 
 <h2>Server</h2>
 
-<p>The server is running in my basement on <a href="http://www.proxmox.com/" title="Proxmox - Start page">ProxMox</a>, its a Ubuntu 12.04  container. By default this had Apache2 installed. I covered <a href="http://jiuks.github.com/2013/01/19/basic-apache2-configuration-on-ubuntu/">Basic Apache2 Configuration on Ubuntu</a> earlier in the month.</p>
+<p>The server is running in my basement on <a href="http://www.proxmox.com/" title="Proxmox - Start page">ProxMox</a>, its a Ubuntu 12.04  container. By default this had Apache2 installed. I covered <a href="http://www.jonmead.me/2013/01/19/basic-apache2-configuration-on-ubuntu/">Basic Apache2 Configuration on Ubuntu</a> earlier in the month.</p>
 
 <p>There were no changes required to the server, nor my internal network or router.</p>
 
@@ -254,10 +254,10 @@ description:
   <entry>
     
     <title type="html"><![CDATA[The Changing World of Business Intelligence]]></title>
-    <link href="http://jiuks.github.com/2013/01/24/the-changing-world-of-business-intelligence/"/>
+    <link href="http://www.jonmead.me/2013/01/24/the-changing-world-of-business-intelligence/"/>
     
     <updated>2013-01-24T22:12:00+00:00</updated>
-    <id>http://jiuks.github.com/2013/01/24/the-changing-world-of-business-intelligence</id>
+    <id>http://www.jonmead.me/2013/01/24/the-changing-world-of-business-intelligence</id>
     
     <content type="html"><![CDATA[<p>I have spent the first half of this week in an internal <a href="http://www.rittmanmead.com">Rittman Mead</a> sales workshop, during which there have been a lot of discussions about the past and future of Business Intelligence, or <a href="http://www.oracle.com/us/solutions/business-analytics/overview/" title="Oracle Business Analytics - Overview | Solutions | Oracle">Business Analytics</a> as <a href="http://www.oracle.com">Oracle</a> are now calling it.</p>
 
@@ -312,10 +312,10 @@ description:
   <entry>
     
     <title type="html"><![CDATA[Decision Making]]></title>
-    <link href="http://jiuks.github.com/2013/01/20/decision-making/"/>
+    <link href="http://www.jonmead.me/2013/01/20/decision-making/"/>
     
     <updated>2013-01-20T09:36:00+00:00</updated>
-    <id>http://jiuks.github.com/2013/01/20/decision-making</id>
+    <id>http://www.jonmead.me/2013/01/20/decision-making</id>
     
     <content type="html"><![CDATA[<p>Business Intelligence is designed and implemented to enable managers to make better business decisions. Business Intelligence provides metrics or numbers that reflect the organisation&#8217;s performance. At a high level this could be more profit, reduced costs or confirmation of adherence to laws, however does this reach as far as game changing strategies?</p>
 
@@ -348,10 +348,10 @@ description:
   <entry>
     
     <title type="html"><![CDATA[What I did next with Octopress]]></title>
-    <link href="http://jiuks.github.com/2013/01/19/what-i-did-next-with-octopress/"/>
+    <link href="http://www.jonmead.me/2013/01/19/what-i-did-next-with-octopress/"/>
     
     <updated>2013-01-19T22:30:00+00:00</updated>
-    <id>http://jiuks.github.com/2013/01/19/what-i-did-next-with-octopress</id>
+    <id>http://www.jonmead.me/2013/01/19/what-i-did-next-with-octopress</id>
     
     <content type="html"><![CDATA[<h2>Themes</h2>
 
@@ -405,10 +405,10 @@ rake deploy
   <entry>
     
     <title type="html"><![CDATA[Getting OEID up and running]]></title>
-    <link href="http://jiuks.github.com/2013/01/19/getting-oeid-up-and-running/"/>
+    <link href="http://www.jonmead.me/2013/01/19/getting-oeid-up-and-running/"/>
     
     <updated>2013-01-19T16:45:00+00:00</updated>
-    <id>http://jiuks.github.com/2013/01/19/getting-oeid-up-and-running</id>
+    <id>http://www.jonmead.me/2013/01/19/getting-oeid-up-and-running</id>
     
     <content type="html"><![CDATA[<h3>Create the project</h3>
 
@@ -439,10 +439,10 @@ rake deploy
   <entry>
     
     <title type="html"><![CDATA[Basic Apache2 configuration on Ubuntu]]></title>
-    <link href="http://jiuks.github.com/2013/01/19/basic-apache2-configuration-on-ubuntu/"/>
+    <link href="http://www.jonmead.me/2013/01/19/basic-apache2-configuration-on-ubuntu/"/>
     
     <updated>2013-01-19T15:53:00+00:00</updated>
-    <id>http://jiuks.github.com/2013/01/19/basic-apache2-configuration-on-ubuntu</id>
+    <id>http://www.jonmead.me/2013/01/19/basic-apache2-configuration-on-ubuntu</id>
     
     <content type="html"><![CDATA[<h2>Useful links</h2>
 

@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[Category: Rittman Mead | Jon Mead]]></title>
-  <link href="http://jiuks.github.com/blog/categories/rittman-mead/atom.xml" rel="self"/>
-  <link href="http://jiuks.github.com/"/>
-  <updated>2013-08-18T16:19:30+01:00</updated>
-  <id>http://jiuks.github.com/</id>
+  <link href="http://www.jonmead.me/blog/categories/rittman-mead/atom.xml" rel="self"/>
+  <link href="http://www.jonmead.me/"/>
+  <updated>2013-08-18T21:59:58+01:00</updated>
+  <id>http://www.jonmead.me/</id>
   <author>
     <name><![CDATA[Jon Mead]]></name>
     
@@ -15,9 +15,9 @@
   
   <entry>
     <title type="html"><![CDATA[The Changing World of Business Intelligence]]></title>
-    <link href="http://jiuks.github.com/2013/01/24/the-changing-world-of-business-intelligence/"/>
+    <link href="http://www.jonmead.me/2013/01/24/the-changing-world-of-business-intelligence/"/>
     <updated>2013-01-24T22:12:00+00:00</updated>
-    <id>http://jiuks.github.com/2013/01/24/the-changing-world-of-business-intelligence</id>
+    <id>http://www.jonmead.me/2013/01/24/the-changing-world-of-business-intelligence</id>
     <content type="html"><![CDATA[<p>I have spent the first half of this week in an internal <a href="http://www.rittmanmead.com">Rittman Mead</a> sales workshop, during which there have been a lot of discussions about the past and future of Business Intelligence, or <a href="http://www.oracle.com/us/solutions/business-analytics/overview/" title="Oracle Business Analytics - Overview | Solutions | Oracle">Business Analytics</a> as <a href="http://www.oracle.com">Oracle</a> are now calling it.</p>
 
 <p>One thing that struck me was the change in Business Intelligence compared to when I started working in the industry.</p>
@@ -69,9 +69,9 @@
   
   <entry>
     <title type="html"><![CDATA[Getting OEID up and running]]></title>
-    <link href="http://jiuks.github.com/2013/01/19/getting-oeid-up-and-running/"/>
+    <link href="http://www.jonmead.me/2013/01/19/getting-oeid-up-and-running/"/>
     <updated>2013-01-19T16:45:00+00:00</updated>
-    <id>http://jiuks.github.com/2013/01/19/getting-oeid-up-and-running</id>
+    <id>http://www.jonmead.me/2013/01/19/getting-oeid-up-and-running</id>
     <content type="html"><![CDATA[<h3>Create the project</h3>
 
 <p>Create new Integrator project</p>
