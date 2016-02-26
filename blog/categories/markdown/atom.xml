@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Markdown | Jon Mead]]></title>
+  <link href="http://jonmead.me/blog/categories/markdown/atom.xml" rel="self"/>
+  <link href="http://jonmead.me/"/>
+  <updated>2013-08-21T23:22:12+01:00</updated>
+  <id>http://jonmead.me/</id>
+  <author>
+    <name><![CDATA[Jon Mead]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Working with Markdown]]></title>
+    <link href="http://jonmead.me/2013/04/14/working-with-markdown/"/>
+    <updated>2013-04-14T23:18:00+01:00</updated>
+    <id>http://jonmead.me/2013/04/14/working-with-markdown</id>
+    <content type="html"><![CDATA[<p>Over the last year I have been becoming more and more reliant on <a href="http://daringfireball.net/projects/markdown/">Markdown</a>. Pretty much everything I write is in <a href="http://daringfireball.net/projects/markdown/">Markdown</a>, most my writing starts in <a href="http://brettterpstra.com/projects/nvalt/">nvALT</a>, whether this is notes from meetings, emails, or anything longer I could be writing.</p>
+
+<h2>Writing</h2>
+
+<p>As an editor <a href="http://brettterpstra.com/projects/nvalt/">nvALT</a> does a good job, however for anything that is longer than a few hundred words I normally use a dedicated editor. Depending on the nature of what I am writing I would say my top three are: <a href="http://macromates.com/">TextMate</a>,  <a href="http://www.foldingtext.com/">Folding Text</a> and <a href="http://www.iawriter.com/mac/">iA Writer</a>. <a href="http://macromates.com/">TextMate</a> I like because of the autocompletion on the Escape Key, so if I am writing quite a technical document which has a lot of repeated words then it seems the quickest way of writing.</p>
+
+<!-- more -->
+
+
+<p><a href="http://www.foldingtext.com/">Folding Text</a> I like for outlining, planning out larger pieces of work and writing presentations. I also like the UI, so some of the longer things I write are done here. I think I'm right in saying that <a href="http://www.foldingtext.com/">Folding Text</a> doesn't implement OSX's autocorrect when typing, which I find quite useful, maybe a better typist wouldn't need it.</p>
+
+<p><a href="http://www.iawriter.com/mac/">iA Writer</a> has the simplest and hence most productive interface. I like to use this in full screen mode when I just want to get my head down and write.</p>
+
+<p>Other things I have tried are <a href="http://bywordapp.com/">Byword</a>, <a href="http://multimarkdown.com/">Multi-Markdown Composer</a> and recently <a href="http://www.ulyssesapp.com/">Ulysses III</a>. <a href="http://bywordapp.com/">Byword</a> I feel I should like, however have just never got enough traction with. <a href="http://multimarkdown.com/">Multi-Markdown Composer</a> I get, but just don't find writing on it that easy and I haven't quite got the stylesheets set up correctly yet. <a href="http://www.ulyssesapp.com/">Ulysses III</a> to be honest I just don't get. I saw a couple of good reviews for it, but it really doesn't work for me.</p>
+
+<h2>Previewing</h2>
+
+<p><a href="http://brettterpstra.com/projects/nvalt/">nvALT</a> also has a build it preview window that can be brought up by a key command, this is useful for quick previews, however the best tool I have found for previewing is <a href="http://brettterpstra.com/">Brett Terpstra's</a> <a href="http://markedapp.com">Marked</a>. This is just quick and easy, plus you can use different styles including a <a href="https://github.com">GitHub</a> one.</p>
+
+<p>To preview an more advanced <a href="http://daringfireball.net/projects/markdown/">Markdown</a> or <a href="http://fletcherpenney.net/multimarkdown/">Multi-Markdown</a> <a href="http://markedapp.com">Marked</a> is required.</p>
+
+<p>It should also be noted that <a href="http://multimarkdown.com/">Multi-Markdown Composer</a> uses a two pane approach, so you write and edit on the left and it previews on the right.</p>
+
+<h2>Additional Tools and Services</h2>
+
+<p><a href="http://smilesoftware.com/TextExpander/index.html">TextExpander</a> is one of the first things I install on any Mac or iOS device and I have started to build up a library of <a href="http://daringfireball.net/projects/markdown/">Markdown</a> related snippets. There are also some good libraries available online from <a href="http://macsparky.com/tesnippets/">MacSparky</a> and <a href="http://brettterpstra.com/projects/te-tools/">Brett Terpstra</a>, who also has some specific <a href="http://brettterpstra.com/2011/02/17/markdown-snippets-for-textexpander-on-ios/">iOS ones</a>.</p>
+
+<p><a href="http://brettterpstra.com/">Brett Terpstra</a> has also built a set of <a href="http://brettterpstra.com/projects/markdown-service-tools/">Markdown Service Tools</a> which give you a load of accelerators and shortcuts for writing Markdown. The one I found the most useful was <a href="http://brettterpstra.com/projects/searchlink/">SearchLink</a> which is a quick way to put placeholder links when writing a page and then service will go and serach the internet and complete all the links.</p>
+
+<h2>Consuming and Publishing</h2>
+
+<p>So that pretty much covers off the writing side of things, the next step is where any of this gets published to. Let's start with the easy stuff. The majority of what are notes that are consumed by me, so I use <a href="http://brettterpstra.com/projects/nvalt/">nvALT</a> and <a href="http://www.dropbox.com/">Dropbox</a> to make sure everything is synced between my two laptops, iPhone and iPad. <a href="http://brettterpstra.com/projects/nvalt/">nvALT</a> has very good search and I would strongly recommend using tags.</p>
+
+<p>We also use <a href="https://github.com">GitHub</a> a lot at <a href="http://www.rittmanmead.com/">Rittman Mead</a>, <a href="https://github.com">GitHub</a> supports <a href="http://daringfireball.net/projects/markdown/">Markdown</a>, so that is pretty easy. It also goes without saying that <a href="http://octopress.org/">Octopress</a> publishes <a href="http://daringfireball.net/projects/markdown/">Markdown</a> natively, so, again, that is easy.</p>
+
+<p>We also have a <a href="http://www.wordpress.com/">Wordpress</a> <a href="http://www.rittmanmead.com/blog/">blog at Rittman Mead</a>, plus we use <a href="http://www.zendesk.com/">Zendesk</a> as a knowledge base internally. Both these sites allow you to write posts in HTML, so I generally preview the document in <a href="http://markedapp.com">Marked</a> and then copy the HTML to the clipboard.</p>
+
+<h3>Email</h3>
+
+<p>Quite often I will want to email what I have written. I have three approaches here:</p>
+
+<ol>
+<li>Convert the note into a PDF, or possibly Word, document and send as an attachment.</li>
+<li>Open up <a href="https://mail.google.com/">Gmail</a> in <a href="https://www.google.com/intl/en_uk/chrome/browser/">Chrome</a>, compose or reply to a mail and paste in my <a href="http://daringfireball.net/projects/markdown/">Markdown</a> note and use a plugin called <a href="https://chrome.google.com/webstore/detail/markdown-here/elifhakcjgalahccnjkneoccemfahfoa/related">Markdown Here</a> to convert the note to rich text.</li>
+<li>Use OSX's Mail.app to send the mail, paste in the <a href="http://daringfireball.net/projects/markdown/">Markdown</a> and use one of the <a href="http://brettterpstra.com/projects/markdown-service-tools/">Markdown Service Tools</a> to convert it to rich text.</li>
+</ol>
+
+
+<p>For short notes, it seems a bit of an overkill to convert everything to a document and attach it so I tend to use (2) or (3) most regularly. <a href="https://chrome.google.com/webstore/detail/markdown-here/elifhakcjgalahccnjkneoccemfahfoa/related">Markdown Here</a> seems to provides a much better rendering  of the note, so aesthetically that is my preference, however it breaks my workflow, I generally prefer an email client to a browser and despite trying many different email clients, when I am using OSX I tend to find using the native apps win out, so that means I use Mail.app and Safari most regularly. I find that pretty much another other tool that converts <a href="http://daringfireball.net/projects/markdown/">Markdown</a> to Rich Text tends to use Heading 1 sizes that look way too big and some <a href="http://fletcherpenney.net/multimarkdown/">Multi-Markdown</a> features can easily be lost.</p>
+
+<p>I can't say I really have this figured out, however I can work around it. Ideally I would like a keyboard shortcut to take a <a href="http://brettterpstra.com/projects/nvalt/">nvATL</a> note and create a new Mail.app message with something like <a href="https://github.com">GitHub</a> formatting.</p>
+
+<h2>Challenges</h2>
+
+<p>Anything more complicated than this I am still having challenges with, and am looking for ways to really solve the problem.</p>
+
+<h3>Commercial Documents</h3>
+
+<p>I write quite a lot of commercial documents at <a href="http://www.rittmanmead.com/">Rittman Mead</a>, in the form of proposals, statements of work and commercial/legal agreements. I will often draft these in <a href="http://daringfireball.net/projects/markdown/">Markdown</a>, ideally I want to then press a button, use a keyboard combination or even run a script and these will be output to a formatted PDF document.</p>
+
+<p>I believe all documents a company outputs should be a high quality. Previously I used Pages and <a href="http://office.microsoft.com/en-gb/word/">Word</a> for this. I could write fairly well formatted in Pages and the export to PDF function gave a true rendering of the Pages document. The main problem I had with this was that:</p>
+
+<ul>
+<li>I much preferred writing in <a href="http://daringfireball.net/projects/markdown/">Markdown</a>;</li>
+<li>I wanted to separate the content from the formatting, so if we changed our look and feel, or if the proposal needed to be written from the US office this was regeneration, not re-authoring;</li>
+<li>there is not a seamless integration of Pages between iOS and OSX, whereas there is for text files.</li>
+<li>Pages files, despite how good <a href="http://en.wikipedia.org/wiki/Spotlight_(software)">Spotlight</a> is, don't have the same ease of search as text files in <a href="http://brettterpstra.com/projects/nvalt/">nvATL</a>.</li>
+</ul>
+
+
+<h3>Formatted Output</h3>
+
+<p>Currently my best approach to this problem is to us a command line utility called <a href="http://johnmacfarlane.net/pandoc/">Pandoc</a> which is a multipurpose converter that happens to take <a href="http://daringfireball.net/projects/markdown/">Markdown</a> as an input and you can select various outputs such as PDF, <a href="http://en.wikipedia.org/wiki/EPUB">ePub</a> or <a href="http://office.microsoft.com/en-gb/word/">Word</a>.</p>
+
+<p>The reason I started using <a href="http://johnmacfarlane.net/pandoc/">Pandoc</a> was because when I exported to PDF from <a href="http://markedapp.com">Marked</a> I found it followed more of a web page paradigm, so there was:</p>
+
+<ul>
+<li>no concept of pages, just one long PDF document;</li>
+<li>no way to have headers and footers in the document. I would typically use these to contain the company logo, a document reference, date and page numbers.</li>
+</ul>
+
+
+<p><a href="http://johnmacfarlane.net/pandoc/">Pandoc</a> gave me this ability, however the <a href="http://daringfireball.net/projects/markdown/">Markdown</a> to PDF conversion uses <a href="http://www.latex-project.org/">LaTex</a>. This means I had to learn a bit of <a href="http://www.latex-project.org/">LaTex</a> to be able to create the formatting, headers and footers that I needed and also the document has a bit of a <a href="http://www.latex-project.org/">LaTex</a> look and feel to it.</p>
+
+<p>One quite major issue I had with <a href="http://johnmacfarlane.net/pandoc/">Pandoc</a> was using tables in the <a href="http://daringfireball.net/projects/markdown/">Markdown</a>. <a href="http://johnmacfarlane.net/pandoc/">Pandoc</a> didn't ever wrap the text, so if you had a table with a lot of text in, it just disappeared of the side of the page. This was a pretty big problem for me.</p>
+
+<h3>Word</h3>
+
+<p>My use of <a href="http://office.microsoft.com/en-gb/word/">Word</a> was solely driven by clients requiring to review and red line commercial and legal documents using Word's <a href="http://office.microsoft.com/en-gb/word-help/track-changes-HA102840151.aspx">Track Changes</a> feature. I am sure a large proportion of sales of the cash cow that is Microsoft Office is driven by corporate needs like this.</p>
+
+<p><a href="http://johnmacfarlane.net/pandoc/">Pandoc</a> also does a pretty good job of generating <a href="http://office.microsoft.com/en-gb/word/">Word</a> documents, and even has the option to base the formatting on another <a href="http://office.microsoft.com/en-gb/word/">Word</a> document, where it will pick up the Heading 1, Normal and other common styles from the template document.</p>
+
+<h2>Collaboration</h2>
+
+<p>I also need to write collaboratively. <a href="http://docs.google.com/?hl=en">Google Docs</a> is excellent for this allowing for real time multi-user editing, however provides absolutely no support for <a href="http://daringfireball.net/projects/markdown/">Markdown</a> and I really struggled getting <a href="http://daringfireball.net/projects/markdown/">Markdown</a> documents formatted and uploaded to <a href="http://docs.google.com/?hl=en">Google Docs</a>.</p>
+
+<p>My current best approach is to create private <a href="https://gist.github.com/">Gists</a> and share the URL with other collaborators. <a href="https://gist.github.com/">Gists</a> can be written in <a href="http://daringfireball.net/projects/markdown/">Markdown</a> and <a href="https://github.com">GitHub</a> offers a great diff utility that I find far easier to read than <a href="http://office.microsoft.com/en-gb/word/">Word's</a> <a href="http://office.microsoft.com/en-gb/word-help/track-changes-HA102840151.aspx">Track Changes</a>. This approach is asynchronous, as opposed to <a href="http://docs.google.com/?hl=en">Google Docs'</a> real time, synchronous editing.</p>
+
+<p>I recently read about <a href="https://draftin.com/">Draft</a> and have signed up for an account, but have yet to try it in anger.</p>
+
+<h2>Next Steps</h2>
+
+<p>The real challenge I have is to get well formatted PDFs from <a href="http://daringfireball.net/projects/markdown/">Markdown</a> to do this I will either continue looking at <a href="http://johnmacfarlane.net/pandoc/">Pandoc</a> and <a href="http://www.latex-project.org/">LaTex</a>, however I think I may have reached the limits here, without changing the type of <a href="http://daringfireball.net/projects/markdown/">Markdown</a> I write, or start to look at customising the CSS previews for <a href="http://markedapp.com">Marked</a>, though I have no idea if things like headers and footers will be possible. I do seem to remember that the PDF export from <a href="http://bywordapp.com/">Byword</a> was a multi page PDF, so that at least must be possible.</p>
+
+<h3>Source Control</h3>
+
+<p>One final idea I'm thinking about at the moment is to create a <a href="https://github.com">GitHub</a> repository out of the directory where all my text (<a href="http://daringfireball.net/projects/markdown/">Markdown</a>) files are kept. Although <a href="http://www.dropbox.com/">Dropbox</a> does a great job of syncing files and keeps an incremental history of every save, I'm thinking the ability to checkpoint files could be useful. One thing I don't know however is how well <a href="http://www.dropbox.com/">Dropbox</a> and <a href="https://github.com">GitHub</a> play together.</p>
+
+<h2>To Conclude</h2>
+
+<p>I now use <a href="http://daringfireball.net/projects/markdown/">Markdown</a> to write everything, or at least everything I write starts out as <a href="http://daringfireball.net/projects/markdown/">Markdown</a>. Where the output can be in <a href="http://daringfireball.net/projects/markdown/">Markdown</a> or HTML then this works amazingly well. However where my workflow requires a more complex output, or I need to collaborate with others, then there are still a few challenges to resolve before the process is seamless.</p>
+
+<p>It should also be noted that there is a growing number of resources available to augment writing in <a href="http://daringfireball.net/projects/markdown/">Markdown</a>, some of which I have mentioned above. Using <a href="http://daringfireball.net/projects/markdown/">Markdown</a> and these resources has significantly improved my productivity and made writing far more enjoyable.</p>
+]]></content>
+  </entry>
+  
+</feed>

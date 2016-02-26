@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Ubuntu | Jon Mead]]></title>
+  <link href="http://jonmead.me/blog/categories/ubuntu/atom.xml" rel="self"/>
+  <link href="http://jonmead.me/"/>
+  <updated>2013-08-21T23:22:12+01:00</updated>
+  <id>http://jonmead.me/</id>
+  <author>
+    <name><![CDATA[Jon Mead]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Basic Apache2 configuration on Ubuntu]]></title>
+    <link href="http://jonmead.me/2013/01/19/basic-apache2-configuration-on-ubuntu/"/>
+    <updated>2013-01-19T15:53:00+00:00</updated>
+    <id>http://jonmead.me/2013/01/19/basic-apache2-configuration-on-ubuntu</id>
+    <content type="html"><![CDATA[<h2>Useful links</h2>
+
+<ul>
+<li><a href="https://help.ubuntu.com/10.04/serverguide/httpd.html">https://help.ubuntu.com/10.04/serverguide/httpd.html</a></li>
+<li><a href="https://help.ubuntu.com/community/ApacheMySQLPHP">https://help.ubuntu.com/community/ApacheMySQLPHP</a></li>
+</ul>
+
+
+<h2>Where is index.html</h2>
+
+<p>The default webroot directory is <code>/var/www/index.html</code>.</p>
+
+<h2>Setting up Octopress as a site</h2>
+
+<p>From: <a href="https://help.ubuntu.com/community/ApacheMySQLPHP">https://help.ubuntu.com/community/ApacheMySQLPHP</a></p>
+
+<p>Make a directory.</p>
+
+<pre><code>mkdir /home/jonmead/octopress/
+</code></pre>
+
+<p>Copy over the default config files.</p>
+
+<pre><code>sudo cp /etc/apache2/sites-available/default /etc/apache2/sites-available/octopress
+sudo vim /etc/apache2/sites-available/octopress
+</code></pre>
+
+<!-- more -->
+
+
+<p>Change the DocumentRoot to point to the new location. For example, <code>/home/jonmead/octopress/</code>.</p>
+
+<p>Change the Directory directive, replace <code>&lt;Directory /var/www/&gt;</code> to <code>&lt;Directory /home/jonmead/octopress/&gt;</code>.</p>
+
+<p>You can also set separate logs for each site. To do this, change the ErrorLog and CustomLog directives. This is optional, but handy if you have many sites</p>
+
+<p>Now, we must deactivate the old site, and activate our new one. Ubuntu provides two small utilities that take care of this: a2ensite (apache2enable site) and a2dissite (apache2disable site).</p>
+
+<pre><code>sudo a2dissite default &amp;&amp; sudo a2ensite octopress
+</code></pre>
+
+<p>Finally, we restart Apache2:</p>
+
+<pre><code>sudo /etc/init.d/apache2 restart
+</code></pre>
+
+<p>If you have not created <code>/home/jonmead/octopress/</code>, you will receive an warning message. To test the new site, create a file in <code>/home/user/public_html/</code>:</p>
+
+<pre><code>echo '&lt;b&gt;Hello! It is working!&lt;/b&gt;' &gt; /home/jonmead/octopress/index.html
+</code></pre>
+
+<p>Finally, browse to <a href="http://localhost/">http://localhost/</a></p>
+]]></content>
+  </entry>
+  
+</feed>
